@@ -1,0 +1,15 @@
+C:\Users\chant\source\repos\CarObo\CarObo\bin\Debug\net6.0\CarObo.exe
+C:\Users\chant\source\repos\CarObo\CarObo\bin\Debug\net6.0\CarObo.deps.json
+C:\Users\chant\source\repos\CarObo\CarObo\bin\Debug\net6.0\CarObo.runtimeconfig.json
+C:\Users\chant\source\repos\CarObo\CarObo\bin\Debug\net6.0\CarObo.dll
+C:\Users\chant\source\repos\CarObo\CarObo\bin\Debug\net6.0\CarObo.pdb
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.csproj.AssemblyReference.cache
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.AssemblyInfoInputs.cache
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.AssemblyInfo.cs
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.csproj.CoreCompileInputs.cache
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.dll
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\refint\CarObo.dll
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.pdb
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\CarObo.genruntimeconfig.cache
+C:\Users\chant\source\repos\CarObo\CarObo\obj\Debug\net6.0\ref\CarObo.dll
